@@ -60,7 +60,7 @@
 - **State 관리** : React Library Recoil을 활용하여 모든 상태 변경을 지속적으로 업데이트
 - **주소 API** : 카카오 주소 API를 통해 Custom Hook으로 주소 검색 및 등록 기능 추가
 
-#### [ back-office: ]
+#### [ back-office: 유저에 따라 자사 서비스 관리 페이지 ]
 
 ![로그인 회원가입](https://user-images.githubusercontent.com/98930796/180378282-d950046a-43a1-462d-b067-c96b383f1301.png)_로그인/회원가입_
 
