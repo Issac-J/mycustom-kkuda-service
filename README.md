@@ -54,7 +54,7 @@
 
 ![결제 프로세스](https://user-images.githubusercontent.com/98930796/180378264-b734412f-0797-4e18-bdd9-fc07350d4982.png)
 
-##### 주문입력 및 확인 페이지
+##### Pages : Order, OrderComplete, OrderConfirm
 
 - **데이터 Fetching** : 상품 `id`로 상품 정보를 `axios`를 통해 Fetching 및 Filtering 후 화면에 출력
 - **form 데이터 조건 및 유효성 검사**
