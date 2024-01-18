@@ -45,9 +45,9 @@
 
 ---
 
-### #기능 및 설명
+### #구현 기능 및 설명
 
-#### [ 사용자 주문 결제 프로세스 ]
+#### [ user-order: 사용자 주문 결제 프로세스 ]
 
 ![결제 프로세스](https://user-images.githubusercontent.com/98930796/180378264-b734412f-0797-4e18-bdd9-fc07350d4982.png)
 
@@ -59,3 +59,28 @@
   - 유효성 검사 : 주문자 정보 및 이용자 정보의 데이터 유효성 검사
 - **State 관리** : React Library Recoil을 활용하여 모든 상태 변경을 지속적으로 업데이트
 - **주소 API** : 카카오 주소 API를 통해 Custom Hook으로 주소 검색 및 등록 기능 추가
+
+#### [ back-office: ]
+
+![로그인 회원가입](https://user-images.githubusercontent.com/98930796/180378282-d950046a-43a1-462d-b067-c96b383f1301.png)_로그인/회원가입_
+
+<br/>
+
+![상품 등록](https://user-images.githubusercontent.com/98930796/180378288-7c4539e8-1d26-40e0-9ec6-b28872cceec2.png)_상품등록_
+
+<br/>
+
+![조회 페이지](https://user-images.githubusercontent.com/98930796/180378017-73952798-9f48-4da2-adc3-4e453a680805.png)_주문,배송,상품,고객,파트너 조회_
+
+<br/>
+
+##### Pages : 로그인 및 회원가입 / 상품 등록 / 상품, 고객, 파트너사 조회
+
+- 로그인 및 회원가입 페이지와 기능 구현
+
+  - 사용자가 입력한 데이터 유효성 검사
+
+- 기본 기능 구현
+  - 기본 기능 : 상품 CRUD
+  - 추가 기능 : Filtering / 상품 N개씩 출력 / Modal / Dropdown / Pagenation
+  -
