@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "[BenQ(벤큐)] 전문가용 (사진,영상 편집) 모니터 UHD 24/25인치 SW240",
+      "brandName": "벤큐",
+      "titleImage": "https://contents.sixshop.com/thumbnails/uploadedFiles/16843/product/image_1645612508050_1000.png",
+      "price": 500000,
+      "deliveryFee": 0,
+      "vendor": {
+        "id": 1,
+        "name": "이니시스",
+        "businessNumber": "2208155597",
+        "phoneNumber": "01012345678"
+      },
+      "rentalPriceList": [
+        { "month": 60, "price": 9900 },
+        { "month": 48, "price": 12200 },
+        { "month": 36, "price": 16000 },
+        { "month": 24, "price": 23600 },
+        { "month": 12, "price": 46400 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "[삼성] 삼성 비스포크 에어드레서 대용량 글램그리너리 DF10A9500FG",
+      "brandName": "삼성",
+      "titleImage": "https://contents.sixshop.com/thumbnails/uploadedFiles/16843/product/image_1656055123091_1000.png",
+      "price": 500000,
+      "deliveryFee": 0,
+      "vendor": {
+        "id": 1,
+        "name": "이니시스",
+        "businessNumber": "2208155597",
+        "phoneNumber": "01012345678"
+      },
+      "rentalPriceList": [
+        { "month": 60, "price": 9900 },
+        { "month": 48, "price": 12200 },
+        { "month": 36, "price": 16000 },
+        { "month": 24, "price": 23600 },
+        { "month": 12, "price": 46400 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "[애플] [중고] Apple 맥북 프로 16형 2019년형 512G i7-9750H 스페이스 그레이 (MVVJ2KH/A)",
+      "brandName": "애플",
+      "titleImage": "https://contents.sixshop.com/thumbnails/uploadedFiles/16843/product/image_1656408602235_1000.png",
+      "price": 500000,
+      "deliveryFee": 0,
+      "vendor": {
+        "id": 1,
+        "name": "이니시스",
+        "businessNumber": "2208155597",
+        "phoneNumber": "01012345678"
+      },
+      "rentalPriceList": [
+        { "month": 60, "price": 9900 },
+        { "month": 48, "price": 12200 },
+        { "month": 36, "price": 16000 },
+        { "month": 24, "price": 23600 },
+        { "month": 12, "price": 46400 }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "[삼성] 삼성 그랑데 건조기 (17kg) DV17T8520BP",
+      "brandName": "삼성",
+      "titleImage": "https://contents.sixshop.com/thumbnails/uploadedFiles/16843/product/image_1656575015310_1000.png",
+      "price": 500000,
+      "deliveryFee": 0,
+      "vendor": {
+        "id": 1,
+        "name": "이니시스",
+        "businessNumber": "2208155597",
+        "phoneNumber": "01012345678"
+      },
+      "rentalPriceList": [
+        { "month": 60, "price": 9900 },
+        { "month": 48, "price": 12200 },
+        { "month": 36, "price": 16000 },
+        { "month": 24, "price": 23600 },
+        { "month": 12, "price": 46400 }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "[LG] LG TROMM 스타일러 오브제컬렉션 미스트 클레이 브라운 (S3ROF)",
+      "brandName": "엘지",
+      "titleImage": "https://contents.sixshop.com/thumbnails/uploadedFiles/16843/product/image_1653034770450_1000.png",
+      "price": 500000,
+      "deliveryFee": 0,
+      "vendor": {
+        "id": 1,
+        "name": "이니시스",
+        "businessNumber": "2208155597",
+        "phoneNumber": "01012345678"
+      },
+      "rentalPriceList": [
+        { "month": 60, "price": 9900 },
+        { "month": 48, "price": 12200 },
+        { "month": 36, "price": 16000 },
+        { "month": 24, "price": 23600 },
+        { "month": 12, "price": 46400 }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "[웰스] 웰스 LED마스크(블루투스)",
+      "brandName": "웰스",
+      "titleImage": "https://contents.sixshop.com/thumbnails/uploadedFiles/16843/product/image_1653988883015_1000.png",
+      "price": 500000,
+      "deliveryFee": 0,
+      "vendor": {
+        "id": 1,
+        "name": "이니시스",
+        "businessNumber": "2208155597",
+        "phoneNumber": "01012345678"
+      },
+      "rentalPriceList": [
+        { "month": 60, "price": 9900 },
+        { "month": 48, "price": 12200 },
+        { "month": 36, "price": 16000 },
+        { "month": 24, "price": 23600 },
+        { "month": 12, "price": 46400 }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "[드롱기] 드롱기 커피머신 (120.SB)",
+      "brandName": "드롱기",
+      "titleImage": "https://contents.sixshop.com/thumbnails/uploadedFiles/16843/product/image_1653029440206_1000.jpg",
+      "price": 500000,
+      "deliveryFee": 0,
+      "vendor": {
+        "id": 1,
+        "name": "이니시스",
+        "businessNumber": "2208155597",
+        "phoneNumber": "01012345678"
+      },
+      "rentalPriceList": [
+        { "month": 60, "price": 9900 },
+        { "month": 48, "price": 12200 },
+        { "month": 36, "price": 16000 },
+        { "month": 24, "price": 23600 },
+        { "month": 12, "price": 46400 }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "[쿠쿠] 쿠쿠 얼음 스탠드 정수기 (CP-H503SW)",
+      "brandName": "쿠쿠",
+      "titleImage": "https://contents.sixshop.com/thumbnails/uploadedFiles/16843/product/image_1652962151436_1000.png",
+      "price": 500000,
+      "deliveryFee": 0,
+      "vendor": {
+        "id": 1,
+        "name": "이니시스",
+        "businessNumber": "2208155597",
+        "phoneNumber": "01012345678"
+      },
+      "rentalPriceList": [
+        { "month": 60, "price": 9900 },
+        { "month": 48, "price": 12200 },
+        { "month": 36, "price": 16000 },
+        { "month": 24, "price": 23600 },
+        { "month": 12, "price": 46400 }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "[아남] 아남 UHD 스마트 TV 65인치(AMG-6500BS)",
+      "brandName": "아남",
+      "titleImage": "https://contents.sixshop.com/thumbnails/uploadedFiles/16843/product/image_1652861134517_1000.jpg",
+      "price": 500000,
+      "deliveryFee": 0,
+      "vendor": {
+        "id": 1,
+        "name": "이니시스",
+        "businessNumber": "2208155597",
+        "phoneNumber": "01012345678"
+      },
+      "rentalPriceList": [
+        { "month": 60, "price": 9900 },
+        { "month": 48, "price": 12200 },
+        { "month": 36, "price": 16000 },
+        { "month": 24, "price": 23600 },
+        { "month": 12, "price": 46400 }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "[브라더] 브라더 흑백 레이저 프린터 (HL-L6400DW-2000)",
+      "brandName": "브라더",
+      "titleImage": "https://contents.sixshop.com/thumbnails/uploadedFiles/16843/product/image_1652842325232_1000.jpg",
+      "price": 500000,
+      "deliveryFee": 0,
+      "vendor": {
+        "id": 1,
+        "name": "이니시스",
+        "businessNumber": "2208155597",
+        "phoneNumber": "01012345678"
+      },
+      "rentalPriceList": [
+        { "month": 60, "price": 9900 },
+        { "month": 48, "price": 12200 },
+        { "month": 36, "price": 16000 },
+        { "month": 24, "price": 23600 },
+        { "month": 12, "price": 46400 }
+      ]
+    }
+  ]
+}
